@@ -1,4 +1,4 @@
-1name: commit-stage.yml
+name: commit-stage.yml
 on: push
 
 env:
